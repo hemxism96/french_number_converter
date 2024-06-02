@@ -84,7 +84,7 @@ When "cent" or "mille" is not ending the word, then it is not plural:
 180000 = (100 + 4 * 20) * 1000 = "cent-quatre-vingt-milles", without S at "vingt", but with S at "milles"  
 
 
-### LLM Usage
+## LLM Usage
 
 The test script (`test.py`) included in this repository was generated with the assistance of an LLM (ChatGPT). 
 The prompt used for generating the test script was:
